@@ -1,0 +1,10 @@
+C:\Users\Evgen\source\repos\RequestApp\RequestApp\bin\Debug\netcoreapp3.0\RequestApp.exe
+C:\Users\Evgen\source\repos\RequestApp\RequestApp\bin\Debug\netcoreapp3.0\RequestApp.deps.json
+C:\Users\Evgen\source\repos\RequestApp\RequestApp\bin\Debug\netcoreapp3.0\RequestApp.runtimeconfig.json
+C:\Users\Evgen\source\repos\RequestApp\RequestApp\bin\Debug\netcoreapp3.0\RequestApp.runtimeconfig.dev.json
+C:\Users\Evgen\source\repos\RequestApp\RequestApp\bin\Debug\netcoreapp3.0\RequestApp.dll
+C:\Users\Evgen\source\repos\RequestApp\RequestApp\bin\Debug\netcoreapp3.0\RequestApp.pdb
+C:\Users\Evgen\source\repos\RequestApp\RequestApp\obj\Debug\netcoreapp3.0\RequestApp.AssemblyInfoInputs.cache
+C:\Users\Evgen\source\repos\RequestApp\RequestApp\obj\Debug\netcoreapp3.0\RequestApp.AssemblyInfo.cs
+C:\Users\Evgen\source\repos\RequestApp\RequestApp\obj\Debug\netcoreapp3.0\RequestApp.dll
+C:\Users\Evgen\source\repos\RequestApp\RequestApp\obj\Debug\netcoreapp3.0\RequestApp.pdb
